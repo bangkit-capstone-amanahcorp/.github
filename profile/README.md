@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Welcome to the capstone project team 👋
 <!--
 
 **Here are some ideas to get you started:**
